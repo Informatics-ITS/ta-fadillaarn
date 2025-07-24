@@ -1,10 +1,9 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Fadilla Rizky Nurhidayah
+**NRP**: 5025211110  
+**Judul TA**: PENGEMBANGAN FRONT-END WEBSITE ERGOCHECK MENGGUNAKAN FRAMEWORK NEXT.JS BERBASIS REACT DENGAN EVALUASI HEURISTIK NIELSEN  
+**Dosen Pembimbing**: Ir. Adhatus Solichah Ahmadiyah, S.Kom., M.Sc 
 
 ---
 
@@ -71,5 +70,5 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: 5025211110@student.its.ac.id
+- Pembimbing Utama: email@pembimbing
