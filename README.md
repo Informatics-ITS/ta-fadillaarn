@@ -1,6 +1,6 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: Fadilla Rizky Nurhidayah
+**Nama Mahasiswa**: Fadilla Rizky Nurhidayah  
 **NRP**: 5025211110  
 **Judul TA**: PENGEMBANGAN FRONT-END WEBSITE ERGOCHECK MENGGUNAKAN FRAMEWORK NEXT.JS BERBASIS REACT DENGAN EVALUASI HEURISTIK NIELSEN  
 **Dosen Pembimbing**: Ir. Adhatus Solichah Ahmadiyah, S.Kom., M.Sc 
